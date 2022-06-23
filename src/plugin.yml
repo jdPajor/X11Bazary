@@ -1,0 +1,4 @@
+name: X11Bazary
+api-version: 1.16
+version: 1.0
+main: pl.jdPajor.bazary.X11Bazary
